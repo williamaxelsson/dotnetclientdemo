@@ -1,0 +1,15 @@
+C:\Demo Projects\dotnetClientDemo\bin\Debug\net6.0-windows\dotnetClientDemo.exe
+C:\Demo Projects\dotnetClientDemo\bin\Debug\net6.0-windows\dotnetClientDemo.deps.json
+C:\Demo Projects\dotnetClientDemo\bin\Debug\net6.0-windows\dotnetClientDemo.runtimeconfig.json
+C:\Demo Projects\dotnetClientDemo\bin\Debug\net6.0-windows\dotnetClientDemo.dll
+C:\Demo Projects\dotnetClientDemo\bin\Debug\net6.0-windows\dotnetClientDemo.pdb
+C:\Demo Projects\dotnetClientDemo\obj\Debug\net6.0-windows\dotnetClientDemo.csproj.AssemblyReference.cache
+C:\Demo Projects\dotnetClientDemo\obj\Debug\net6.0-windows\dotnetClientDemo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Demo Projects\dotnetClientDemo\obj\Debug\net6.0-windows\dotnetClientDemo.AssemblyInfoInputs.cache
+C:\Demo Projects\dotnetClientDemo\obj\Debug\net6.0-windows\dotnetClientDemo.AssemblyInfo.cs
+C:\Demo Projects\dotnetClientDemo\obj\Debug\net6.0-windows\dotnetClientDemo.csproj.CoreCompileInputs.cache
+C:\Demo Projects\dotnetClientDemo\obj\Debug\net6.0-windows\dotnetClientDemo.dll
+C:\Demo Projects\dotnetClientDemo\obj\Debug\net6.0-windows\refint\dotnetClientDemo.dll
+C:\Demo Projects\dotnetClientDemo\obj\Debug\net6.0-windows\dotnetClientDemo.pdb
+C:\Demo Projects\dotnetClientDemo\obj\Debug\net6.0-windows\dotnetClientDemo.genruntimeconfig.cache
+C:\Demo Projects\dotnetClientDemo\obj\Debug\net6.0-windows\ref\dotnetClientDemo.dll
